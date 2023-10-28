@@ -3,7 +3,7 @@
 This Project is built for manipulating of grayscale images which is type of portable gray map (aka pgm).
 You are expecting doing basic changes on main to use provided methods as you desire.
 
-#Depencies
+# Depencies
 -CMake at lease version 3.12
 -c++ v17
 
