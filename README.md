@@ -10,7 +10,7 @@
 # Compile and Running
 
 * Go to direction that project is located.
-Here is how to do: "cd LOCATION_OF_ORIJECT/Grayscale-ImageProcessor/"
+Here is how to do: "cd LOCATION_OF_PROJECT/Grayscale-ImageProcessor/"
 * Create a directory named build. Here is how to do: "mkdir build"
 * Go to build directory. Here is how to do: "cd build/"
 * Compile the project. Here is how to do: "cmake ..; cmake --build."
